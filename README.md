@@ -1,4 +1,6 @@
 # Library-Management-System
+Library Management System Program is a powerful and user-friendly software that simplifies the management and organization of libraries
+
 ## _Used Languages is:_
 
 ![Image Description](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
